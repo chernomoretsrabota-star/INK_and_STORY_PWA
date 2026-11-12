@@ -1,0 +1,11 @@
+{
+  "name": "INK & STORY — Писательская мастерская",
+  "short_name": "INK & STORY",
+  "description": "Личное пространство для книг, рукописей и персонажей",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#17151d",
+  "theme_color": "#211d2a",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
